@@ -1,6 +1,6 @@
-/*
+/* Digital Bootcamp 79
 * Created by: Anugrah Wardhani (ardhanwardhani)
-* Updated at: 15:30 PM 21/06/23
+* Updated at: 15:30 21/06/23
 */
 public class  Main {
     public static void main(String[] args) {
